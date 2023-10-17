@@ -14,7 +14,7 @@ body
     min-height: 100vh;
     align-items: center;
     justify-content: center;
-    background: rgb(167, 115, 18);
+    background: #08031A;
 }
 
 .wrapper
@@ -84,7 +84,7 @@ header p
   cursor: pointer;
   margin-top: 20px;
   font-size: 17px;
-  background: black;
+  background: #1687CB;
 }
 
 .qr-code
